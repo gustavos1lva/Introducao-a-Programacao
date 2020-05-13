@@ -9,6 +9,7 @@
 /**                                                                 **/
 /**   <15/04/2020>                                             	    **/
 /*********************************************************************/
+
 /*
 	Caixa eletrônico das Ilhas Weblands, com estoque ilimitado de cédulas
 	de B$50,00, B$10,00, B$5,00 e B$1,00.
