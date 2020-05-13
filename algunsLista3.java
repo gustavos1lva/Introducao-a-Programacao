@@ -1,4 +1,4 @@
-public class Lista_3 {
+public class algunsLista3 {
     public static void main(String[] args) {
         ex5();
         ex6();
