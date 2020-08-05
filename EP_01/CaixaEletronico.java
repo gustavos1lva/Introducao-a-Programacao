@@ -15,7 +15,7 @@
 	de B$50,00, B$10,00, B$5,00 e B$1,00.
 */
 public class CaixaEletronico {
-	// Número de cédulas de B$50,00
+	// Número de cédulas de B$50,00 TESTANDO MERGE CONFLICT
 	static int n50;
 	
 	// Número de cédulas de B$10,00
